@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fiedler-m
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently a graduate student studying Computer Science 
+- 🌱 I’m currently a graduate student at Johns Hopkins University studying Computer Science 
 
 
 <!---
